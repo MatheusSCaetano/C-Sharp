@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\bin\Debug\net6.0\SaidasDeDados.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\bin\Debug\net6.0\SaidasDeDados.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\bin\Debug\net6.0\SaidasDeDados.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\bin\Debug\net6.0\SaidasDeDados.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\bin\Debug\net6.0\SaidasDeDados.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\refint\SaidasDeDados.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\SaidasDeDados.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\SaidasDeDados\SaidasDeDados\obj\Debug\net6.0\ref\SaidasDeDados.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\refint\ExerciciosClasses.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ref\ExerciciosClasses.dll

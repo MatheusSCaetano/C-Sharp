@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\bin\Debug\net6.0\ResolvendoProblemaSemOrientObj.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\bin\Debug\net6.0\ResolvendoProblemaSemOrientObj.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\bin\Debug\net6.0\ResolvendoProblemaSemOrientObj.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\bin\Debug\net6.0\ResolvendoProblemaSemOrientObj.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\bin\Debug\net6.0\ResolvendoProblemaSemOrientObj.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\refint\ResolvendoProblemaSemOrientObj.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ResolvendoProblemaSemOrientObj.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ResolvendoProblemaSemOrientObj\ResolvendoProblemaSemOrientObj\obj\Debug\net6.0\ref\ResolvendoProblemaSemOrientObj.dll

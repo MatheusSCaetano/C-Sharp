@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\refint\ProblemaEstoque.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ref\ProblemaEstoque.dll

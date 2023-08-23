@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\bin\Debug\net6.0\ExerciciosPropostosIfElse.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\bin\Debug\net6.0\ExerciciosPropostosIfElse.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\bin\Debug\net6.0\ExerciciosPropostosIfElse.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\bin\Debug\net6.0\ExerciciosPropostosIfElse.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\bin\Debug\net6.0\ExerciciosPropostosIfElse.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\refint\ExerciciosPropostosIfElse.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ExerciciosPropostosIfElse.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosIfElse\ExerciciosPropostosIfElse\obj\Debug\net6.0\ref\ExerciciosPropostosIfElse.dll

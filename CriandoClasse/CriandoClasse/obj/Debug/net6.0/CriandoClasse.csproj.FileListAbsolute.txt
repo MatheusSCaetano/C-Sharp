@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\bin\Debug\net6.0\CriandoClasse.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\bin\Debug\net6.0\CriandoClasse.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\bin\Debug\net6.0\CriandoClasse.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\bin\Debug\net6.0\CriandoClasse.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\bin\Debug\net6.0\CriandoClasse.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\refint\CriandoClasse.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\CriandoClasse.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\CriandoClasse\CriandoClasse\obj\Debug\net6.0\ref\CriandoClasse.dll

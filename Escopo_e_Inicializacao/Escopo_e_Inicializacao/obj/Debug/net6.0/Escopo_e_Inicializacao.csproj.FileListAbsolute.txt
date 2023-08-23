@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\bin\Debug\net6.0\Escopo_e_Inicializacao.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\bin\Debug\net6.0\Escopo_e_Inicializacao.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\bin\Debug\net6.0\Escopo_e_Inicializacao.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\bin\Debug\net6.0\Escopo_e_Inicializacao.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\bin\Debug\net6.0\Escopo_e_Inicializacao.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\refint\Escopo_e_Inicializacao.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\Escopo_e_Inicializacao.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\Escopo_e_Inicializacao\Escopo_e_Inicializacao\obj\Debug\net6.0\ref\Escopo_e_Inicializacao.dll

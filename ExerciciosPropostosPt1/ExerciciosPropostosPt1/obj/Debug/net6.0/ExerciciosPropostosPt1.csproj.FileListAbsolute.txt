@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\bin\Debug\net6.0\ExerciciosPropostosPt1.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\bin\Debug\net6.0\ExerciciosPropostosPt1.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\bin\Debug\net6.0\ExerciciosPropostosPt1.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\bin\Debug\net6.0\ExerciciosPropostosPt1.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\bin\Debug\net6.0\ExerciciosPropostosPt1.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\refint\ExerciciosPropostosPt1.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ExerciciosPropostosPt1.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExerciciosPropostosPt1\ExerciciosPropostosPt1\obj\Debug\net6.0\ref\ExerciciosPropostosPt1.dll

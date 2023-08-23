@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\bin\Debug\net6.0\ExSaidaDeDados.exe
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\bin\Debug\net6.0\ExSaidaDeDados.deps.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\bin\Debug\net6.0\ExSaidaDeDados.runtimeconfig.json
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\bin\Debug\net6.0\ExSaidaDeDados.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\bin\Debug\net6.0\ExSaidaDeDados.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\refint\ExSaidaDeDados.dll
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.pdb
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ExSaidaDeDados.genruntimeconfig.cache
+C:\Users\User\Documents\Cursos\C-SHARPE\ExSaidaDeDados\ExSaidaDeDados\obj\Debug\net6.0\ref\ExSaidaDeDados.dll
